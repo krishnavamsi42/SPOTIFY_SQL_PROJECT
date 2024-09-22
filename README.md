@@ -92,3 +92,17 @@ To improve query performance, we carried out the following optimization process:
   - **Planning time (P.T.)**: 0.17 ms
 
   Below is the screenshot of the EXPLAIN result before optimization:
+![](https://github.com/najirh/najirh-Spotify-Data-Analysis-using-SQL/blob/main/spotify_explain_before_index.png)
+- **Index Creation on the artist Column**  
+  To optimize the query performance, we created an index on the `artist` column. This ensures faster retrieval of rows where the artist is queried.
+
+  **SQL command for creating the index:**
+  ```sql
+  CREATE INDEX idx_artist ON spotify_tracks(artist);
+- **Performance Analysis After Index Creation**  
+  After creating the index, we ran the same query again and observed significant improvements in performance:
+
+  - **Execution time (E.T.)**: 0.153 ms
+  - **Planning time (P.T.)**: 0.152 ms
+
+  Below is the screenshot of the EXPLAIN result after index creation:
