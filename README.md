@@ -114,3 +114,5 @@ To improve query performance, we carried out the following optimization process:
   ![Performance Comparison Graph](https://github.com/krishnavamsi42/SPOTIFY_SQL_PROJECT/blob/main/spotify_graphical%20view%203.png)
   ![](https://github.com/krishnavamsi42/SPOTIFY_SQL_PROJECT/blob/main/spotify_graphical%20view%202.png)
   ![](https://github.com/krishnavamsi42/SPOTIFY_SQL_PROJECT/blob/main/spotify_graphical%20view%202.png)
+
+  #### This optimization shows how indexing can drastically reduce query time, improving the overall performance of our database operations in the Spotify project.
