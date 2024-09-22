@@ -111,4 +111,4 @@ To improve query performance, we carried out the following optimization process:
   A graph illustrating the comparison between the initial query execution time and the optimized query execution time after index creation.  
   The graph view shows the significant drop in both execution and planning times:
 
-  ![Performance Comparison Graph](link_to_your_image)
+  ![Performance Comparison Graph](https://github.com/krishnavamsi42/SPOTIFY_SQL_PROJECT/blob/main/spotify_graphical%20view%203.png)
