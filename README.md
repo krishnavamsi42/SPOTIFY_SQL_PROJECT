@@ -113,3 +113,4 @@ To improve query performance, we carried out the following optimization process:
 
   ![Performance Comparison Graph](https://github.com/krishnavamsi42/SPOTIFY_SQL_PROJECT/blob/main/spotify_graphical%20view%203.png)
   ![](https://github.com/krishnavamsi42/SPOTIFY_SQL_PROJECT/blob/main/spotify_graphical%20view%202.png)
+  ![](https://github.com/krishnavamsi42/SPOTIFY_SQL_PROJECT/blob/main/spotify_graphical%20view%202.png)
